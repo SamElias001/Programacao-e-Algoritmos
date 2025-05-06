@@ -1,0 +1,29 @@
+C:\Users\Admin\Documents\27Nov24\bin\Debug\net7.0\27Nov24.exe
+C:\Users\Admin\Documents\27Nov24\bin\Debug\net7.0\27Nov24.deps.json
+C:\Users\Admin\Documents\27Nov24\bin\Debug\net7.0\27Nov24.runtimeconfig.json
+C:\Users\Admin\Documents\27Nov24\bin\Debug\net7.0\27Nov24.dll
+C:\Users\Admin\Documents\27Nov24\bin\Debug\net7.0\27Nov24.pdb
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.AssemblyInfo.cs
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.dll
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\refint\27Nov24.dll
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.pdb
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\27Nov24.genruntimeconfig.cache
+C:\Users\Admin\Documents\27Nov24\obj\Debug\net7.0\ref\27Nov24.dll
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\bin\Debug\net7.0\27Nov24.exe
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\bin\Debug\net7.0\27Nov24.deps.json
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\bin\Debug\net7.0\27Nov24.runtimeconfig.json
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\bin\Debug\net7.0\27Nov24.dll
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\bin\Debug\net7.0\27Nov24.pdb
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\27Nov24.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\27Nov24.AssemblyInfoInputs.cache
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\27Nov24.AssemblyInfo.cs
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\27Nov24.csproj.CoreCompileInputs.cache
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\27Nov24.dll
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\refint\27Nov24.dll
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\27Nov24.pdb
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\27Nov24.genruntimeconfig.cache
+D:\VSCODE PROJECTS\ETEC\Programação e Algoritimos\27Nov24\obj\Debug\net7.0\ref\27Nov24.dll
